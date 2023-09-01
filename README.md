@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nbronzina
 - 🤖 I’m a Design Researcher and Futurist
 - 🌱 I’m currently working on Design Fiction Scenarios and Archetypes
-- 💞️ I’m looking to collaborate on any digital service or product
+- 💞️ I’m looking to collaborate on any phygital service or product
 - 📫 How to reach me: nicolas.bronzina@gmail.com
 - 🌐 www.nicolasbronzina.com
 - 📍 Argentinian living in Madrid
